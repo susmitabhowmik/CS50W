@@ -1,0 +1,1 @@
+A repository for all projects created during the course of CS50W.
